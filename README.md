@@ -145,3 +145,8 @@ TBC
 ### Who do I talk to? ###
 
 * Owner: Bryon Baker. Twiter: @bryonbakeraus
+
+### Ongoing maintenance ###
+There are no plans to maintain this repository. The project still serves as a useful tutorial for developers to work out how to integrate managed and unmanaged code as one of the major components have changed in how you use them.
+If people would like to see this maintained against the l;atest releases of Xamarin, X Code, and SuperPowered then I would welcome pull requests.
+I am very happy to field questions.
