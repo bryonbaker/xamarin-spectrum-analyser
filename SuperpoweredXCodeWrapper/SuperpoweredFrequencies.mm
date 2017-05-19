@@ -4,7 +4,7 @@
 #include "SuperpoweredSimple.h"
 #include <pthread.h>
 
-#define NUM_BANDS   (4*13)      // Must be a multiple of 4
+#define NUM_BANDS   (4*2)      // Must be a multiple of 4
 #define FREQ_OFFSET (int)-29
 
 @implementation SuperpoweredFrequencies {
@@ -25,16 +25,17 @@
     // We use a mutex to prevent simultaneous reading/writing of bands.
     pthread_mutex_init(&mutex, NULL);
     
-    // float frequencies[8] = { 55, 110, 220, 440, 880, 1760, 3520, 7040 };
-    // float widths[8] = { 1, 1, 1, 1, 1, 1, 1, 1 };
-    float frequencies[NUM_BANDS];
-    float widths[NUM_BANDS];
-    float bandWidth = 1.0f / 48.0f;
-    for( int n = 0; n < NUM_BANDS; n++ )
-    {
-        frequencies[n] = 440.0f * powf(2, (float)(n+FREQ_OFFSET)/12.0f);
-        widths[n] = bandWidth;
-    }
+    float frequencies[8] = { 55, 110, 220, 440, 880, 1760, 3520, 7040 };
+    float widths[8] = { 1, 1, 1, 1, 1, 1, 1, 1 };
+    //float frequencies[NUM_BANDS];
+    //float widths[NUM_BANDS];
+    
+    //float bandWidth = 1.0f / 48.0f;
+    //for( int n = 0; n < NUM_BANDS; n++ )
+    //{
+    //    frequencies[n] = 440.0f * powf(2, (float)(n+FREQ_OFFSET)/12.0f);
+    //    widths[n] = bandWidth;
+    //}
     
     filters = new SuperpoweredBandpassFilterbank(NUM_BANDS, frequencies, widths, samplerate);
     
