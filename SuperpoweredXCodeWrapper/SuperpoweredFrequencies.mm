@@ -68,6 +68,7 @@
     pthread_mutex_lock(&mutex);
     samplesProcessedForOneDisplayFrame += numberOfSamples;
     filters->process(interleaved, bands, &peak, &sum, numberOfSamples);
+
     pthread_mutex_unlock(&mutex);
     
     return false;
