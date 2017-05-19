@@ -23,7 +23,6 @@
     <MtouchLink>None</MtouchLink>
     <MtouchDebug>true</MtouchDebug>
     <MtouchProfiling>true</MtouchProfiling>
-    <MtouchUseRefCounting>true</MtouchUseRefCounting>
     <MtouchI18n>
     </MtouchI18n>
     <MtouchExtraArgs>-cxx -gcc_flags "-L${ProjectDir} -lSuperpoweredAudio -force_load ${ProjectDir}/libSuperpoweredAudio.a -lSuperpoweredXCodeWrapperSDK -force_load ${ProjectDir}/libSuperpoweredXCodeWrapperSDK.a" -gcc_flags "-Wl,-map,${ProjectDir}/output.map"</MtouchExtraArgs>
@@ -66,7 +65,6 @@
     <MtouchProfiling>true</MtouchProfiling>
     <CodesignKey>iPhone Developer</CodesignKey>
     <MtouchDebug>true</MtouchDebug>
-    <MtouchUseRefCounting>true</MtouchUseRefCounting>
     <MtouchI18n>
     </MtouchI18n>
     <MtouchExtraArgs>-cxx -gcc_flags "-L${ProjectDir} -lSuperpoweredAudio -force_load ${ProjectDir}/libSuperpoweredAudio.a -lSuperpoweredXCodeWrapperSDK -force_load ${ProjectDir}/libSuperpoweredXCodeWrapperSDK.a" -gcc_flags "-Wl,-map,${ProjectDir}/output.map"</MtouchExtraArgs>
@@ -79,7 +77,7 @@
     <Reference Include="System.Core" />
     <Reference Include="Xamarin.iOS" />
     <Reference Include="Calabash">
-      <HintPath>packages\Xamarin.TestCloud.Agent.0.13.0\lib\Xamarin.iOS10\Calabash.dll</HintPath>
+      <HintPath>packages\Xamarin.TestCloud.Agent.0.20.3\lib\Xamarin.iOS10\Calabash.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -92,9 +90,9 @@
   <ItemGroup>
     <None Include="Info.plist" />
     <None Include="Entitlements.plist" />
-    <None Include="packages.config" />
     <None Include="libSuperpoweredAudio.a" />
     <None Include="libSuperpoweredXCodeWrapperSDK.a" />
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Main.cs" />
