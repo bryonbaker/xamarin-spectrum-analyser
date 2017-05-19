@@ -1,125 +1,125 @@
-# Path: /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/bin/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/XamarinSpectrumAnalyser.app/XamarinSpectrumAnalyser
+# Path: /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/bin/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/XamarinSpectrumAnalyser.app/XamarinSpectrumAnalyser
 # Arch: i386
 # Object files:
 [  0] linker synthesized
 [  1] dtrace
-[  2] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPGCDAsyncSocket.o)
-[  3] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPHTTPAuthenticationRequest.o)
-[  4] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPHTTPConnection.o)
-[  5] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPCLIColor.o)
-[  6] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPHTTPMessage.o)
-[  7] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPHTTPServer.o)
-[  8] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(NSData+LPCHSExtensions.o)
-[  9] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPSetDeviceOrientationRoute.o)
-[ 10] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPUIASharedElementChannel.o)
-[ 11] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(NSNumber+LPCHSExtensions.o)
-[ 12] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPDDRange.o)
-[ 13] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPASLLogFormatter.o)
-[ 14] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPHTTPAsyncFileResponse.o)
-[ 15] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPHTTPDataResponse.o)
-[ 16] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPCDataScanner.o)
-[ 17] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPHTTPDynamicFileResponse.o)
-[ 18] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPConstants.o)
-[ 19] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPTTYLogger.o)
-[ 20] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPShakeRoute.o)
-[ 21] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPSSKeychainQuery.o)
-[ 22] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPCollectionViewScrollToItemWithMarkOperation.o)
-[ 23] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPHTTPFileResponse.o)
-[ 24] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPHTTPRedirectResponse.o)
-[ 25] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPReflectionRoute.o)
-[ 26] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPScrollToMarkOperation.o)
-[ 27] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPRouter.o)
-[ 28] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPQueryAllOperation.o)
-[ 29] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPOperation.o)
-[ 30] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPContextFilterLogFormatter.o)
-[ 31] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPQueryOperation.o)
-[ 32] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPScrollOperation.o)
-[ 33] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPUIATapRoute.o)
-[ 34] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPScrollToRowOperation.o)
-[ 35] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPTTYLogFormatter.o)
-[ 36] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPSetTextOperation.o)
-[ 37] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPUIAUserPrefsChannel.o)
-[ 38] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPRecorder.o)
-[ 39] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(CalabashServer.o)
-[ 40] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPUIARouteOverUserPrefs.o)
-[ 41] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPUserPrefRoute.o)
-[ 42] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPKeyboardRoute.o)
-[ 43] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPInfoPlist.o)
-[ 44] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPGenericAsyncRoute.o)
-[ 45] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPUIATapRouteOverSharedElement.o)
-[ 46] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPConditionRoute.o)
-[ 47] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPUIARouteOverSharedElement.o)
-[ 48] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPASLLogCapture.o)
-[ 49] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPInterpolateRoute.o)
-[ 50] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPRecordRoute.o)
-[ 51] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPWebQuery.o)
-[ 52] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPMapRoute.o)
-[ 53] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPNoContentResponse.o)
-[ 54] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPScreenshotRoute.o)
-[ 55] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPKeyboardLanguageRoute.o)
-[ 56] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPAsyncPlaybackRoute.o)
-[ 57] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPDecimalRounder.o)
-[ 58] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPWebSocket.o)
-[ 59] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPWebViewUtils.o)
-[ 60] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPBackdoorRoute.o)
-[ 61] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPVersionRoute.o)
-[ 62] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPCDataScanner_Extensions.o)
-[ 63] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPCJSONDeserializer.o)
-[ 64] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPCJSONScanner.o)
-[ 65] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPCJSONSerializer.o)
-[ 66] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPResources.o)
-[ 67] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(UIScriptASTPredicate.o)
-[ 68] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(UIScriptAST.o)
-[ 69] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPLog.o)
-[ 70] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPDebugRoute.o)
-[ 71] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(UIScriptASTALL.o)
-[ 72] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(UIScriptASTClassName.o)
-[ 73] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(UIScriptASTDirection.o)
-[ 74] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(UIScriptASTFirst.o)
-[ 75] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(UIWebView+LPWebView.o)
-[ 76] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPASLLogger.o)
-[ 77] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(UIScriptASTIndex.o)
-[ 78] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPInvoker.o)
-[ 79] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(UIScriptASTLast.o)
-[ 80] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPEnv.o)
-[ 81] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPDumpRoute.o)
-[ 82] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(UIScriptASTWith.o)
-[ 83] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPSuspendAppRoute.o)
-[ 84] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPSSKeychain.o)
-[ 85] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(UIScriptParser.o)
-[ 86] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPJSONUtils.o)
-[ 87] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPProcessInfoRoute.o)
-[ 88] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPJSONUtils+Introspection.o)
-[ 89] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPKeychainRoute.o)
-[ 90] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPTouchUtils.o)
-[ 91] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPFileLogger.o)
-[ 92] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPPluginLoader.o)
-[ 93] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPI.o)
-[ 94] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPInvocationResult.o)
-[ 95] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPSharedUIATextField.o)
-[ 96] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPReflectUtils.o)
-[ 97] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPDevice.o)
-[ 98] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPISO8601DateFormatter.o)
-[ 99] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPDispatchQueueLogFormatter.o)
-[100] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPMultiFormatter.o)
-[101] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPWKWebViewRuntimeLoader.o)
-[102] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPStatusBarRoute.o)
-[103] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPExitRoute.o)
-[104] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPSliderOperation.o)
-[105] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(UIScriptASTVisibility.o)
-[106] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPCollectionViewScrollToItemOperation.o)
-[107] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPAbstractDatabaseLogger.o)
-[108] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPLogger.o)
-[109] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPAppPropertyRoute.o)
-[110] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPQueryLogRoute.o)
-[111] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPLocationRoute.o)
-[112] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPFlashOperation.o)
-[113] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPScrollToRowWithMarkOperation.o)
-[114] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPOrientationOperation.o)
-[115] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPCORSResponse.o)
-[116] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPIntrospectionRoute.o)
-[117] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPInvocationError.o)
-[118] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/calabash(LPDatePickerOperation.o)
+[  2] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPGCDAsyncSocket.o)
+[  3] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPHTTPAuthenticationRequest.o)
+[  4] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPHTTPConnection.o)
+[  5] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPCLIColor.o)
+[  6] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPHTTPMessage.o)
+[  7] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPHTTPServer.o)
+[  8] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(NSData+LPCHSExtensions.o)
+[  9] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPSetDeviceOrientationRoute.o)
+[ 10] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPUIASharedElementChannel.o)
+[ 11] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(NSNumber+LPCHSExtensions.o)
+[ 12] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPDDRange.o)
+[ 13] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPASLLogFormatter.o)
+[ 14] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPHTTPAsyncFileResponse.o)
+[ 15] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPHTTPDataResponse.o)
+[ 16] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPCDataScanner.o)
+[ 17] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPHTTPDynamicFileResponse.o)
+[ 18] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPConstants.o)
+[ 19] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPTTYLogger.o)
+[ 20] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPShakeRoute.o)
+[ 21] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPSSKeychainQuery.o)
+[ 22] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPCollectionViewScrollToItemWithMarkOperation.o)
+[ 23] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPHTTPFileResponse.o)
+[ 24] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPHTTPRedirectResponse.o)
+[ 25] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPReflectionRoute.o)
+[ 26] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPScrollToMarkOperation.o)
+[ 27] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPRouter.o)
+[ 28] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPQueryAllOperation.o)
+[ 29] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPOperation.o)
+[ 30] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPContextFilterLogFormatter.o)
+[ 31] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPQueryOperation.o)
+[ 32] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPScrollOperation.o)
+[ 33] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPUIATapRoute.o)
+[ 34] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPScrollToRowOperation.o)
+[ 35] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPTTYLogFormatter.o)
+[ 36] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPSetTextOperation.o)
+[ 37] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPUIAUserPrefsChannel.o)
+[ 38] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPRecorder.o)
+[ 39] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(CalabashServer.o)
+[ 40] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPUIARouteOverUserPrefs.o)
+[ 41] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPUserPrefRoute.o)
+[ 42] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPKeyboardRoute.o)
+[ 43] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPInfoPlist.o)
+[ 44] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPGenericAsyncRoute.o)
+[ 45] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPUIATapRouteOverSharedElement.o)
+[ 46] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPConditionRoute.o)
+[ 47] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPUIARouteOverSharedElement.o)
+[ 48] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPASLLogCapture.o)
+[ 49] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPInterpolateRoute.o)
+[ 50] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPRecordRoute.o)
+[ 51] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPWebQuery.o)
+[ 52] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPMapRoute.o)
+[ 53] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPNoContentResponse.o)
+[ 54] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPScreenshotRoute.o)
+[ 55] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPKeyboardLanguageRoute.o)
+[ 56] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPAsyncPlaybackRoute.o)
+[ 57] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPDecimalRounder.o)
+[ 58] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPWebSocket.o)
+[ 59] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPWebViewUtils.o)
+[ 60] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPBackdoorRoute.o)
+[ 61] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPVersionRoute.o)
+[ 62] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPCDataScanner_Extensions.o)
+[ 63] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPCJSONDeserializer.o)
+[ 64] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPCJSONScanner.o)
+[ 65] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPCJSONSerializer.o)
+[ 66] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPResources.o)
+[ 67] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(UIScriptASTPredicate.o)
+[ 68] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(UIScriptAST.o)
+[ 69] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPLog.o)
+[ 70] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPDebugRoute.o)
+[ 71] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(UIScriptASTALL.o)
+[ 72] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(UIScriptASTClassName.o)
+[ 73] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(UIScriptASTDirection.o)
+[ 74] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(UIScriptASTFirst.o)
+[ 75] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(UIWebView+LPWebView.o)
+[ 76] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPASLLogger.o)
+[ 77] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(UIScriptASTIndex.o)
+[ 78] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPInvoker.o)
+[ 79] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(UIScriptASTLast.o)
+[ 80] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPEnv.o)
+[ 81] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPDumpRoute.o)
+[ 82] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(UIScriptASTWith.o)
+[ 83] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPSuspendAppRoute.o)
+[ 84] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPSSKeychain.o)
+[ 85] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(UIScriptParser.o)
+[ 86] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPJSONUtils.o)
+[ 87] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPProcessInfoRoute.o)
+[ 88] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPJSONUtils+Introspection.o)
+[ 89] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPKeychainRoute.o)
+[ 90] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPTouchUtils.o)
+[ 91] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPFileLogger.o)
+[ 92] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPPluginLoader.o)
+[ 93] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPI.o)
+[ 94] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPInvocationResult.o)
+[ 95] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPSharedUIATextField.o)
+[ 96] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPReflectUtils.o)
+[ 97] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPDevice.o)
+[ 98] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPISO8601DateFormatter.o)
+[ 99] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPDispatchQueueLogFormatter.o)
+[100] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPMultiFormatter.o)
+[101] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPWKWebViewRuntimeLoader.o)
+[102] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPStatusBarRoute.o)
+[103] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPExitRoute.o)
+[104] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPSliderOperation.o)
+[105] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(UIScriptASTVisibility.o)
+[106] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPCollectionViewScrollToItemOperation.o)
+[107] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPAbstractDatabaseLogger.o)
+[108] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPLogger.o)
+[109] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPAppPropertyRoute.o)
+[110] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPQueryLogRoute.o)
+[111] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPLocationRoute.o)
+[112] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPFlashOperation.o)
+[113] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPScrollToRowWithMarkOperation.o)
+[114] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPOrientationOperation.o)
+[115] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPCORSResponse.o)
+[116] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPIntrospectionRoute.o)
+[117] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPInvocationError.o)
+[118] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/calabash(LPDatePickerOperation.o)
 [119] /Library/Frameworks/Xamarin.iOS.framework/Versions/10.10.0.33/SDKs/MonoTouch.iphonesimulator.sdk/usr/lib/libapp.a(app-main.x86.o)
 [120] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/libSuperpoweredAudio.a(SuperpoweredAdvancedAudioPlayer.o)
 [121] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/libSuperpoweredAudio.a(Superpowered3BandEQ.o)
@@ -196,7 +196,7 @@
 [192] /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.3.sdk/System/Library/Frameworks//CFNetwork.framework/CFNetwork
 [193] /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.3.sdk/System/Library/Frameworks//CoreFoundation.framework/CoreFoundation
 [194] /Library/Frameworks/Xamarin.iOS.framework/Versions/10.10.0.33/SDKs/MonoTouch.iphonesimulator.sdk/usr/lib/Xamarin.iOS.registrar.a
-[195] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3/mtouch-cache/i386/main.o
+[195] /Users/vbisbest/Projects/spectrum-analyzer/XamarinSpectrumAnalyser/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3/mtouch-cache/i386/main.o
 [196] /Library/Frameworks/Xamarin.iOS.framework/Versions/10.10.0.33/SDKs/MonoTouch.iphonesimulator.sdk/usr/lib/libmonosgen-2.0.a(libmini_la-abcremoval.o)
 [197] /Library/Frameworks/Xamarin.iOS.framework/Versions/10.10.0.33/SDKs/MonoTouch.iphonesimulator.sdk/usr/lib/libmonosgen-2.0.a(libmini_la-alias-analysis.o)
 [198] /Library/Frameworks/Xamarin.iOS.framework/Versions/10.10.0.33/SDKs/MonoTouch.iphonesimulator.sdk/usr/lib/libmonosgen-2.0.a(libmini_la-aot-compiler.o)
@@ -450,8 +450,8 @@
 [446] /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.3.sdk/usr/lib/libz.dylib
 [447] /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.3.sdk/usr/lib/libiconv.dylib
 [448] /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.3.sdk/usr/lib/libSystem.dylib
-[449] /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.3.sdk/usr/lib/libc++abi.dylib
-[450] /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.3.sdk/usr/lib/libobjc.A.dylib
+[449] /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.3.sdk/usr/lib/libobjc.A.dylib
+[450] /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.3.sdk/usr/lib/libc++abi.dylib
 # Sections:
 # Address	Size    	Segment	Section
 0x00004590	0x0047BC82	__TEXT	__text
@@ -13004,14 +13004,14 @@
 0x004805D8	0x00000006	[448] __Unwind_Resume
 0x004805DE	0x00000006	[431] __Z7isdigiti
 0x004805E4	0x00000006	[431] __Z9__isctypeim
-0x004805EA	0x00000006	[449] __ZSt9terminatev
-0x004805F0	0x00000006	[449] __ZdlPv
-0x004805F6	0x00000006	[449] __Znwm
+0x004805EA	0x00000006	[450] __ZSt9terminatev
+0x004805F0	0x00000006	[450] __ZdlPv
+0x004805F6	0x00000006	[450] __Znwm
 0x004805FC	0x00000006	[448] ___assert_rtn
-0x00480602	0x00000006	[449] ___cxa_begin_catch
-0x00480608	0x00000006	[449] ___cxa_end_catch
-0x0048060E	0x00000006	[449] ___cxa_guard_acquire
-0x00480614	0x00000006	[449] ___cxa_guard_release
+0x00480602	0x00000006	[450] ___cxa_begin_catch
+0x00480608	0x00000006	[450] ___cxa_end_catch
+0x0048060E	0x00000006	[450] ___cxa_guard_acquire
+0x00480614	0x00000006	[450] ___cxa_guard_release
 0x0048061A	0x00000006	[448] ___divdc3
 0x00480620	0x00000006	[448] ___divdi3
 0x00480626	0x00000006	[448] ___error
@@ -13066,18 +13066,18 @@
 0x0048074C	0x00000006	[448] _ceilf
 0x00480752	0x00000006	[448] _chdir
 0x00480758	0x00000006	[448] _chmod
-0x0048075E	0x00000006	[450] _class_addMethod
-0x00480764	0x00000006	[450] _class_addProtocol
-0x0048076A	0x00000006	[450] _class_copyIvarList
-0x00480770	0x00000006	[450] _class_copyMethodList
-0x00480776	0x00000006	[450] _class_copyPropertyList
-0x0048077C	0x00000006	[450] _class_copyProtocolList
-0x00480782	0x00000006	[450] _class_getClassMethod
-0x00480788	0x00000006	[450] _class_getInstanceMethod
-0x0048078E	0x00000006	[450] _class_getMethodImplementation
-0x00480794	0x00000006	[450] _class_getName
-0x0048079A	0x00000006	[450] _class_getSuperclass
-0x004807A0	0x00000006	[450] _class_isMetaClass
+0x0048075E	0x00000006	[449] _class_addMethod
+0x00480764	0x00000006	[449] _class_addProtocol
+0x0048076A	0x00000006	[449] _class_copyIvarList
+0x00480770	0x00000006	[449] _class_copyMethodList
+0x00480776	0x00000006	[449] _class_copyPropertyList
+0x0048077C	0x00000006	[449] _class_copyProtocolList
+0x00480782	0x00000006	[449] _class_getClassMethod
+0x00480788	0x00000006	[449] _class_getInstanceMethod
+0x0048078E	0x00000006	[449] _class_getMethodImplementation
+0x00480794	0x00000006	[449] _class_getName
+0x0048079A	0x00000006	[449] _class_getSuperclass
+0x004807A0	0x00000006	[449] _class_isMetaClass
 0x004807A6	0x00000006	[448] _clock_get_time
 0x004807AC	0x00000006	[448] _clock_sleep
 0x004807B2	0x00000006	[448] _close
@@ -13210,7 +13210,7 @@
 0x00480AAC	0x00000006	[448] _isatty
 0x00480AB2	0x00000006	[448] _isdigit
 0x00480AB8	0x00000006	[448] _isspace
-0x00480ABE	0x00000006	[450] _ivar_getName
+0x00480ABE	0x00000006	[449] _ivar_getName
 0x00480AC4	0x00000006	[448] _kevent
 0x00480ACA	0x00000006	[448] _kill
 0x00480AD0	0x00000006	[448] _kqueue
@@ -13236,11 +13236,11 @@
 0x00480B48	0x00000006	[448] _memmove
 0x00480B4E	0x00000006	[448] _memset
 0x00480B54	0x00000006	[448] _memset_pattern16
-0x00480B5A	0x00000006	[450] _method_getArgumentType
-0x00480B60	0x00000006	[450] _method_getDescription
-0x00480B66	0x00000006	[450] _method_getName
-0x00480B6C	0x00000006	[450] _method_getNumberOfArguments
-0x00480B72	0x00000006	[450] _method_getTypeEncoding
+0x00480B5A	0x00000006	[449] _method_getArgumentType
+0x00480B60	0x00000006	[449] _method_getDescription
+0x00480B66	0x00000006	[449] _method_getName
+0x00480B6C	0x00000006	[449] _method_getNumberOfArguments
+0x00480B72	0x00000006	[449] _method_getTypeEncoding
 0x00480B78	0x00000006	[448] _mincore
 0x00480B7E	0x00000006	[448] _mkdir
 0x00480B84	0x00000006	[448] _mkdtemp
@@ -13253,50 +13253,50 @@
 0x00480BAE	0x00000006	[448] _nanosleep
 0x00480BB4	0x00000006	[448] _notify_cancel
 0x00480BBA	0x00000006	[448] _notify_register_dispatch
-0x00480BC0	0x00000006	[450] _objc_allocateClassPair
-0x00480BC6	0x00000006	[450] _objc_autorelease
-0x00480BCC	0x00000006	[450] _objc_autoreleasePoolPop
-0x00480BD2	0x00000006	[450] _objc_autoreleasePoolPush
-0x00480BD8	0x00000006	[450] _objc_autoreleaseReturnValue
-0x00480BDE	0x00000006	[450] _objc_begin_catch
-0x00480BE4	0x00000006	[450] _objc_copyClassList
-0x00480BEA	0x00000006	[450] _objc_copyImageNames
-0x00480BF0	0x00000006	[450] _objc_copyStruct
-0x00480BF6	0x00000006	[450] _objc_copyWeak
-0x00480BFC	0x00000006	[450] _objc_destroyWeak
-0x00480C02	0x00000006	[450] _objc_end_catch
-0x00480C08	0x00000006	[450] _objc_enumerationMutation
-0x00480C0E	0x00000006	[450] _objc_exception_throw
-0x00480C14	0x00000006	[450] _objc_getAssociatedObject
-0x00480C1A	0x00000006	[450] _objc_getClass
-0x00480C20	0x00000006	[450] _objc_getClassList
-0x00480C26	0x00000006	[450] _objc_getProperty
-0x00480C2C	0x00000006	[450] _objc_initWeak
-0x00480C32	0x00000006	[450] _objc_loadWeakRetained
-0x00480C38	0x00000006	[450] _objc_msgSend
-0x00480C3E	0x00000006	[450] _objc_msgSendSuper
-0x00480C44	0x00000006	[450] _objc_msgSendSuper2
-0x00480C4A	0x00000006	[450] _objc_msgSendSuper_stret
-0x00480C50	0x00000006	[450] _objc_msgSend_fpret
-0x00480C56	0x00000006	[450] _objc_msgSend_stret
-0x00480C5C	0x00000006	[450] _objc_registerClassPair
-0x00480C62	0x00000006	[450] _objc_release
-0x00480C68	0x00000006	[450] _objc_retain
-0x00480C6E	0x00000006	[450] _objc_retainAutorelease
-0x00480C74	0x00000006	[450] _objc_retainAutoreleaseReturnValue
-0x00480C7A	0x00000006	[450] _objc_retainAutoreleasedReturnValue
-0x00480C80	0x00000006	[450] _objc_retainBlock
-0x00480C86	0x00000006	[450] _objc_setAssociatedObject
-0x00480C8C	0x00000006	[450] _objc_setProperty_atomic
-0x00480C92	0x00000006	[450] _objc_setProperty_atomic_copy
-0x00480C98	0x00000006	[450] _objc_setProperty_nonatomic
-0x00480C9E	0x00000006	[450] _objc_setProperty_nonatomic_copy
-0x00480CA4	0x00000006	[450] _objc_storeStrong
-0x00480CAA	0x00000006	[450] _objc_storeWeak
-0x00480CB0	0x00000006	[450] _objc_sync_enter
-0x00480CB6	0x00000006	[450] _objc_sync_exit
-0x00480CBC	0x00000006	[450] _object_getClass
-0x00480CC2	0x00000006	[450] _object_getClassName
+0x00480BC0	0x00000006	[449] _objc_allocateClassPair
+0x00480BC6	0x00000006	[449] _objc_autorelease
+0x00480BCC	0x00000006	[449] _objc_autoreleasePoolPop
+0x00480BD2	0x00000006	[449] _objc_autoreleasePoolPush
+0x00480BD8	0x00000006	[449] _objc_autoreleaseReturnValue
+0x00480BDE	0x00000006	[449] _objc_begin_catch
+0x00480BE4	0x00000006	[449] _objc_copyClassList
+0x00480BEA	0x00000006	[449] _objc_copyImageNames
+0x00480BF0	0x00000006	[449] _objc_copyStruct
+0x00480BF6	0x00000006	[449] _objc_copyWeak
+0x00480BFC	0x00000006	[449] _objc_destroyWeak
+0x00480C02	0x00000006	[449] _objc_end_catch
+0x00480C08	0x00000006	[449] _objc_enumerationMutation
+0x00480C0E	0x00000006	[449] _objc_exception_throw
+0x00480C14	0x00000006	[449] _objc_getAssociatedObject
+0x00480C1A	0x00000006	[449] _objc_getClass
+0x00480C20	0x00000006	[449] _objc_getClassList
+0x00480C26	0x00000006	[449] _objc_getProperty
+0x00480C2C	0x00000006	[449] _objc_initWeak
+0x00480C32	0x00000006	[449] _objc_loadWeakRetained
+0x00480C38	0x00000006	[449] _objc_msgSend
+0x00480C3E	0x00000006	[449] _objc_msgSendSuper
+0x00480C44	0x00000006	[449] _objc_msgSendSuper2
+0x00480C4A	0x00000006	[449] _objc_msgSendSuper_stret
+0x00480C50	0x00000006	[449] _objc_msgSend_fpret
+0x00480C56	0x00000006	[449] _objc_msgSend_stret
+0x00480C5C	0x00000006	[449] _objc_registerClassPair
+0x00480C62	0x00000006	[449] _objc_release
+0x00480C68	0x00000006	[449] _objc_retain
+0x00480C6E	0x00000006	[449] _objc_retainAutorelease
+0x00480C74	0x00000006	[449] _objc_retainAutoreleaseReturnValue
+0x00480C7A	0x00000006	[449] _objc_retainAutoreleasedReturnValue
+0x00480C80	0x00000006	[449] _objc_retainBlock
+0x00480C86	0x00000006	[449] _objc_setAssociatedObject
+0x00480C8C	0x00000006	[449] _objc_setProperty_atomic
+0x00480C92	0x00000006	[449] _objc_setProperty_atomic_copy
+0x00480C98	0x00000006	[449] _objc_setProperty_nonatomic
+0x00480C9E	0x00000006	[449] _objc_setProperty_nonatomic_copy
+0x00480CA4	0x00000006	[449] _objc_storeStrong
+0x00480CAA	0x00000006	[449] _objc_storeWeak
+0x00480CB0	0x00000006	[449] _objc_sync_enter
+0x00480CB6	0x00000006	[449] _objc_sync_exit
+0x00480CBC	0x00000006	[449] _object_getClass
+0x00480CC2	0x00000006	[449] _object_getClassName
 0x00480CC8	0x00000006	[448] _open
 0x00480CCE	0x00000006	[448] _opendir
 0x00480CD4	0x00000006	[448] _pclose
@@ -13308,9 +13308,9 @@
 0x00480CF8	0x00000006	[448] _pow
 0x00480CFE	0x00000006	[448] _powf
 0x00480D04	0x00000006	[448] _printf
-0x00480D0A	0x00000006	[450] _property_copyAttributeList
-0x00480D10	0x00000006	[450] _property_getName
-0x00480D16	0x00000006	[450] _protocol_getMethodDescription
+0x00480D0A	0x00000006	[449] _property_copyAttributeList
+0x00480D10	0x00000006	[449] _property_getName
+0x00480D16	0x00000006	[449] _protocol_getMethodDescription
 0x00480D1C	0x00000006	[448] _pthread_attr_getschedpolicy
 0x00480D22	0x00000006	[448] _pthread_attr_getstacksize
 0x00480D28	0x00000006	[448] _pthread_attr_init
@@ -13368,8 +13368,8 @@
 0x00480E60	0x00000006	[448] _sched_get_priority_max
 0x00480E66	0x00000006	[448] _sched_get_priority_min
 0x00480E6C	0x00000006	[448] _sched_yield
-0x00480E72	0x00000006	[450] _sel_getName
-0x00480E78	0x00000006	[450] _sel_registerName
+0x00480E72	0x00000006	[449] _sel_getName
+0x00480E78	0x00000006	[449] _sel_registerName
 0x00480E7E	0x00000006	[448] _select
 0x00480E84	0x00000006	[448] _semaphore_create
 0x00480E8A	0x00000006	[448] _semaphore_destroy
@@ -14017,78 +14017,78 @@
 0x0048262A	0x0000000A	[448] _waitpid
 0x00482634	0x0000000A	[448] _write
 0x0048263E	0x0000000A	[448] _writev
-0x00482648	0x0000000A	[449] __ZSt9terminatev
-0x00482652	0x0000000A	[449] ___cxa_begin_catch
-0x0048265C	0x0000000A	[449] ___cxa_end_catch
-0x00482666	0x0000000A	[449] ___cxa_guard_acquire
-0x00482670	0x0000000A	[449] ___cxa_guard_release
-0x0048267A	0x0000000A	[450] _class_addMethod
-0x00482684	0x0000000A	[450] _class_addProtocol
-0x0048268E	0x0000000A	[450] _class_copyIvarList
-0x00482698	0x0000000A	[450] _class_copyMethodList
-0x004826A2	0x0000000A	[450] _class_copyPropertyList
-0x004826AC	0x0000000A	[450] _class_copyProtocolList
-0x004826B6	0x0000000A	[450] _class_getClassMethod
-0x004826C0	0x0000000A	[450] _class_getInstanceMethod
-0x004826CA	0x0000000A	[450] _class_getMethodImplementation
-0x004826D4	0x0000000A	[450] _class_getName
-0x004826DE	0x0000000A	[450] _class_getSuperclass
-0x004826E8	0x0000000A	[450] _class_isMetaClass
-0x004826F2	0x0000000A	[450] _ivar_getName
-0x004826FC	0x0000000A	[450] _method_getArgumentType
-0x00482706	0x0000000A	[450] _method_getDescription
-0x00482710	0x0000000A	[450] _method_getName
-0x0048271A	0x0000000A	[450] _method_getNumberOfArguments
-0x00482724	0x0000000A	[450] _method_getTypeEncoding
-0x0048272E	0x0000000A	[450] _objc_allocateClassPair
-0x00482738	0x0000000A	[450] _objc_autorelease
-0x00482742	0x0000000A	[450] _objc_autoreleasePoolPop
-0x0048274C	0x0000000A	[450] _objc_autoreleasePoolPush
-0x00482756	0x0000000A	[450] _objc_autoreleaseReturnValue
-0x00482760	0x0000000A	[450] _objc_begin_catch
-0x0048276A	0x0000000A	[450] _objc_copyClassList
-0x00482774	0x0000000A	[450] _objc_copyImageNames
-0x0048277E	0x0000000A	[450] _objc_copyStruct
-0x00482788	0x0000000A	[450] _objc_copyWeak
-0x00482792	0x0000000A	[450] _objc_destroyWeak
-0x0048279C	0x0000000A	[450] _objc_end_catch
-0x004827A6	0x0000000A	[450] _objc_enumerationMutation
-0x004827B0	0x0000000A	[450] _objc_exception_throw
-0x004827BA	0x0000000A	[450] _objc_getAssociatedObject
-0x004827C4	0x0000000A	[450] _objc_getClass
-0x004827CE	0x0000000A	[450] _objc_getClassList
-0x004827D8	0x0000000A	[450] _objc_getProperty
-0x004827E2	0x0000000A	[450] _objc_initWeak
-0x004827EC	0x0000000A	[450] _objc_loadWeakRetained
-0x004827F6	0x0000000A	[450] _objc_msgSend
-0x00482800	0x0000000A	[450] _objc_msgSendSuper
-0x0048280A	0x0000000A	[450] _objc_msgSendSuper2
-0x00482814	0x0000000A	[450] _objc_msgSendSuper_stret
-0x0048281E	0x0000000A	[450] _objc_msgSend_fpret
-0x00482828	0x0000000A	[450] _objc_msgSend_stret
-0x00482832	0x0000000A	[450] _objc_registerClassPair
-0x0048283C	0x0000000A	[450] _objc_release
-0x00482846	0x0000000A	[450] _objc_retain
-0x00482850	0x0000000A	[450] _objc_retainAutorelease
-0x0048285A	0x0000000A	[450] _objc_retainAutoreleaseReturnValue
-0x00482864	0x0000000A	[450] _objc_retainAutoreleasedReturnValue
-0x0048286E	0x0000000A	[450] _objc_retainBlock
-0x00482878	0x0000000A	[450] _objc_setAssociatedObject
-0x00482882	0x0000000A	[450] _objc_setProperty_atomic
-0x0048288C	0x0000000A	[450] _objc_setProperty_atomic_copy
-0x00482896	0x0000000A	[450] _objc_setProperty_nonatomic
-0x004828A0	0x0000000A	[450] _objc_setProperty_nonatomic_copy
-0x004828AA	0x0000000A	[450] _objc_storeStrong
-0x004828B4	0x0000000A	[450] _objc_storeWeak
-0x004828BE	0x0000000A	[450] _objc_sync_enter
-0x004828C8	0x0000000A	[450] _objc_sync_exit
-0x004828D2	0x0000000A	[450] _object_getClass
-0x004828DC	0x0000000A	[450] _object_getClassName
-0x004828E6	0x0000000A	[450] _property_copyAttributeList
-0x004828F0	0x0000000A	[450] _property_getName
-0x004828FA	0x0000000A	[450] _protocol_getMethodDescription
-0x00482904	0x0000000A	[450] _sel_getName
-0x0048290E	0x0000000A	[450] _sel_registerName
+0x00482648	0x0000000A	[449] _class_addMethod
+0x00482652	0x0000000A	[449] _class_addProtocol
+0x0048265C	0x0000000A	[449] _class_copyIvarList
+0x00482666	0x0000000A	[449] _class_copyMethodList
+0x00482670	0x0000000A	[449] _class_copyPropertyList
+0x0048267A	0x0000000A	[449] _class_copyProtocolList
+0x00482684	0x0000000A	[449] _class_getClassMethod
+0x0048268E	0x0000000A	[449] _class_getInstanceMethod
+0x00482698	0x0000000A	[449] _class_getMethodImplementation
+0x004826A2	0x0000000A	[449] _class_getName
+0x004826AC	0x0000000A	[449] _class_getSuperclass
+0x004826B6	0x0000000A	[449] _class_isMetaClass
+0x004826C0	0x0000000A	[449] _ivar_getName
+0x004826CA	0x0000000A	[449] _method_getArgumentType
+0x004826D4	0x0000000A	[449] _method_getDescription
+0x004826DE	0x0000000A	[449] _method_getName
+0x004826E8	0x0000000A	[449] _method_getNumberOfArguments
+0x004826F2	0x0000000A	[449] _method_getTypeEncoding
+0x004826FC	0x0000000A	[449] _objc_allocateClassPair
+0x00482706	0x0000000A	[449] _objc_autorelease
+0x00482710	0x0000000A	[449] _objc_autoreleasePoolPop
+0x0048271A	0x0000000A	[449] _objc_autoreleasePoolPush
+0x00482724	0x0000000A	[449] _objc_autoreleaseReturnValue
+0x0048272E	0x0000000A	[449] _objc_begin_catch
+0x00482738	0x0000000A	[449] _objc_copyClassList
+0x00482742	0x0000000A	[449] _objc_copyImageNames
+0x0048274C	0x0000000A	[449] _objc_copyStruct
+0x00482756	0x0000000A	[449] _objc_copyWeak
+0x00482760	0x0000000A	[449] _objc_destroyWeak
+0x0048276A	0x0000000A	[449] _objc_end_catch
+0x00482774	0x0000000A	[449] _objc_enumerationMutation
+0x0048277E	0x0000000A	[449] _objc_exception_throw
+0x00482788	0x0000000A	[449] _objc_getAssociatedObject
+0x00482792	0x0000000A	[449] _objc_getClass
+0x0048279C	0x0000000A	[449] _objc_getClassList
+0x004827A6	0x0000000A	[449] _objc_getProperty
+0x004827B0	0x0000000A	[449] _objc_initWeak
+0x004827BA	0x0000000A	[449] _objc_loadWeakRetained
+0x004827C4	0x0000000A	[449] _objc_msgSend
+0x004827CE	0x0000000A	[449] _objc_msgSendSuper
+0x004827D8	0x0000000A	[449] _objc_msgSendSuper2
+0x004827E2	0x0000000A	[449] _objc_msgSendSuper_stret
+0x004827EC	0x0000000A	[449] _objc_msgSend_fpret
+0x004827F6	0x0000000A	[449] _objc_msgSend_stret
+0x00482800	0x0000000A	[449] _objc_registerClassPair
+0x0048280A	0x0000000A	[449] _objc_release
+0x00482814	0x0000000A	[449] _objc_retain
+0x0048281E	0x0000000A	[449] _objc_retainAutorelease
+0x00482828	0x0000000A	[449] _objc_retainAutoreleaseReturnValue
+0x00482832	0x0000000A	[449] _objc_retainAutoreleasedReturnValue
+0x0048283C	0x0000000A	[449] _objc_retainBlock
+0x00482846	0x0000000A	[449] _objc_setAssociatedObject
+0x00482850	0x0000000A	[449] _objc_setProperty_atomic
+0x0048285A	0x0000000A	[449] _objc_setProperty_atomic_copy
+0x00482864	0x0000000A	[449] _objc_setProperty_nonatomic
+0x0048286E	0x0000000A	[449] _objc_setProperty_nonatomic_copy
+0x00482878	0x0000000A	[449] _objc_storeStrong
+0x00482882	0x0000000A	[449] _objc_storeWeak
+0x0048288C	0x0000000A	[449] _objc_sync_enter
+0x00482896	0x0000000A	[449] _objc_sync_exit
+0x004828A0	0x0000000A	[449] _object_getClass
+0x004828AA	0x0000000A	[449] _object_getClassName
+0x004828B4	0x0000000A	[449] _property_copyAttributeList
+0x004828BE	0x0000000A	[449] _property_getName
+0x004828C8	0x0000000A	[449] _protocol_getMethodDescription
+0x004828D2	0x0000000A	[449] _sel_getName
+0x004828DC	0x0000000A	[449] _sel_registerName
+0x004828E6	0x0000000A	[450] __ZSt9terminatev
+0x004828F0	0x0000000A	[450] ___cxa_begin_catch
+0x004828FA	0x0000000A	[450] ___cxa_end_catch
+0x00482904	0x0000000A	[450] ___cxa_guard_acquire
+0x0048290E	0x0000000A	[450] ___cxa_guard_release
 0x00482918	0x0000002C	[  2] GCC_except_table88
 0x00482944	0x0000002C	[  2] GCC_except_table97
 0x00482970	0x0000002C	[  2] GCC_except_table123
@@ -31837,14 +31837,14 @@
 0x005A09D4	0x00000004	[448] __Unwind_Resume
 0x005A09D8	0x00000004	[431] __Z7isdigiti
 0x005A09DC	0x00000004	[431] __Z9__isctypeim
-0x005A09E0	0x00000004	[449] __ZSt9terminatev
-0x005A09E4	0x00000004	[449] __ZdlPv
-0x005A09E8	0x00000004	[449] __Znwm
+0x005A09E0	0x00000004	[450] __ZSt9terminatev
+0x005A09E4	0x00000004	[450] __ZdlPv
+0x005A09E8	0x00000004	[450] __Znwm
 0x005A09EC	0x00000004	[448] ___assert_rtn
-0x005A09F0	0x00000004	[449] ___cxa_begin_catch
-0x005A09F4	0x00000004	[449] ___cxa_end_catch
-0x005A09F8	0x00000004	[449] ___cxa_guard_acquire
-0x005A09FC	0x00000004	[449] ___cxa_guard_release
+0x005A09F0	0x00000004	[450] ___cxa_begin_catch
+0x005A09F4	0x00000004	[450] ___cxa_end_catch
+0x005A09F8	0x00000004	[450] ___cxa_guard_acquire
+0x005A09FC	0x00000004	[450] ___cxa_guard_release
 0x005A0A00	0x00000004	[448] ___divdc3
 0x005A0A04	0x00000004	[448] ___divdi3
 0x005A0A08	0x00000004	[448] ___error
@@ -31899,18 +31899,18 @@
 0x005A0ACC	0x00000004	[448] _ceilf
 0x005A0AD0	0x00000004	[448] _chdir
 0x005A0AD4	0x00000004	[448] _chmod
-0x005A0AD8	0x00000004	[450] _class_addMethod
-0x005A0ADC	0x00000004	[450] _class_addProtocol
-0x005A0AE0	0x00000004	[450] _class_copyIvarList
-0x005A0AE4	0x00000004	[450] _class_copyMethodList
-0x005A0AE8	0x00000004	[450] _class_copyPropertyList
-0x005A0AEC	0x00000004	[450] _class_copyProtocolList
-0x005A0AF0	0x00000004	[450] _class_getClassMethod
-0x005A0AF4	0x00000004	[450] _class_getInstanceMethod
-0x005A0AF8	0x00000004	[450] _class_getMethodImplementation
-0x005A0AFC	0x00000004	[450] _class_getName
-0x005A0B00	0x00000004	[450] _class_getSuperclass
-0x005A0B04	0x00000004	[450] _class_isMetaClass
+0x005A0AD8	0x00000004	[449] _class_addMethod
+0x005A0ADC	0x00000004	[449] _class_addProtocol
+0x005A0AE0	0x00000004	[449] _class_copyIvarList
+0x005A0AE4	0x00000004	[449] _class_copyMethodList
+0x005A0AE8	0x00000004	[449] _class_copyPropertyList
+0x005A0AEC	0x00000004	[449] _class_copyProtocolList
+0x005A0AF0	0x00000004	[449] _class_getClassMethod
+0x005A0AF4	0x00000004	[449] _class_getInstanceMethod
+0x005A0AF8	0x00000004	[449] _class_getMethodImplementation
+0x005A0AFC	0x00000004	[449] _class_getName
+0x005A0B00	0x00000004	[449] _class_getSuperclass
+0x005A0B04	0x00000004	[449] _class_isMetaClass
 0x005A0B08	0x00000004	[448] _clock_get_time
 0x005A0B0C	0x00000004	[448] _clock_sleep
 0x005A0B10	0x00000004	[448] _close
@@ -32043,7 +32043,7 @@
 0x005A0D0C	0x00000004	[448] _isatty
 0x005A0D10	0x00000004	[448] _isdigit
 0x005A0D14	0x00000004	[448] _isspace
-0x005A0D18	0x00000004	[450] _ivar_getName
+0x005A0D18	0x00000004	[449] _ivar_getName
 0x005A0D1C	0x00000004	[448] _kevent
 0x005A0D20	0x00000004	[448] _kill
 0x005A0D24	0x00000004	[448] _kqueue
@@ -32069,11 +32069,11 @@
 0x005A0D74	0x00000004	[448] _memmove
 0x005A0D78	0x00000004	[448] _memset
 0x005A0D7C	0x00000004	[448] _memset_pattern16
-0x005A0D80	0x00000004	[450] _method_getArgumentType
-0x005A0D84	0x00000004	[450] _method_getDescription
-0x005A0D88	0x00000004	[450] _method_getName
-0x005A0D8C	0x00000004	[450] _method_getNumberOfArguments
-0x005A0D90	0x00000004	[450] _method_getTypeEncoding
+0x005A0D80	0x00000004	[449] _method_getArgumentType
+0x005A0D84	0x00000004	[449] _method_getDescription
+0x005A0D88	0x00000004	[449] _method_getName
+0x005A0D8C	0x00000004	[449] _method_getNumberOfArguments
+0x005A0D90	0x00000004	[449] _method_getTypeEncoding
 0x005A0D94	0x00000004	[448] _mincore
 0x005A0D98	0x00000004	[448] _mkdir
 0x005A0D9C	0x00000004	[448] _mkdtemp
@@ -32086,50 +32086,50 @@
 0x005A0DB8	0x00000004	[448] _nanosleep
 0x005A0DBC	0x00000004	[448] _notify_cancel
 0x005A0DC0	0x00000004	[448] _notify_register_dispatch
-0x005A0DC4	0x00000004	[450] _objc_allocateClassPair
-0x005A0DC8	0x00000004	[450] _objc_autorelease
-0x005A0DCC	0x00000004	[450] _objc_autoreleasePoolPop
-0x005A0DD0	0x00000004	[450] _objc_autoreleasePoolPush
-0x005A0DD4	0x00000004	[450] _objc_autoreleaseReturnValue
-0x005A0DD8	0x00000004	[450] _objc_begin_catch
-0x005A0DDC	0x00000004	[450] _objc_copyClassList
-0x005A0DE0	0x00000004	[450] _objc_copyImageNames
-0x005A0DE4	0x00000004	[450] _objc_copyStruct
-0x005A0DE8	0x00000004	[450] _objc_copyWeak
-0x005A0DEC	0x00000004	[450] _objc_destroyWeak
-0x005A0DF0	0x00000004	[450] _objc_end_catch
-0x005A0DF4	0x00000004	[450] _objc_enumerationMutation
-0x005A0DF8	0x00000004	[450] _objc_exception_throw
-0x005A0DFC	0x00000004	[450] _objc_getAssociatedObject
-0x005A0E00	0x00000004	[450] _objc_getClass
-0x005A0E04	0x00000004	[450] _objc_getClassList
-0x005A0E08	0x00000004	[450] _objc_getProperty
-0x005A0E0C	0x00000004	[450] _objc_initWeak
-0x005A0E10	0x00000004	[450] _objc_loadWeakRetained
-0x005A0E14	0x00000004	[450] _objc_msgSend
-0x005A0E18	0x00000004	[450] _objc_msgSendSuper
-0x005A0E1C	0x00000004	[450] _objc_msgSendSuper2
-0x005A0E20	0x00000004	[450] _objc_msgSendSuper_stret
-0x005A0E24	0x00000004	[450] _objc_msgSend_fpret
-0x005A0E28	0x00000004	[450] _objc_msgSend_stret
-0x005A0E2C	0x00000004	[450] _objc_registerClassPair
-0x005A0E30	0x00000004	[450] _objc_release
-0x005A0E34	0x00000004	[450] _objc_retain
-0x005A0E38	0x00000004	[450] _objc_retainAutorelease
-0x005A0E3C	0x00000004	[450] _objc_retainAutoreleaseReturnValue
-0x005A0E40	0x00000004	[450] _objc_retainAutoreleasedReturnValue
-0x005A0E44	0x00000004	[450] _objc_retainBlock
-0x005A0E48	0x00000004	[450] _objc_setAssociatedObject
-0x005A0E4C	0x00000004	[450] _objc_setProperty_atomic
-0x005A0E50	0x00000004	[450] _objc_setProperty_atomic_copy
-0x005A0E54	0x00000004	[450] _objc_setProperty_nonatomic
-0x005A0E58	0x00000004	[450] _objc_setProperty_nonatomic_copy
-0x005A0E5C	0x00000004	[450] _objc_storeStrong
-0x005A0E60	0x00000004	[450] _objc_storeWeak
-0x005A0E64	0x00000004	[450] _objc_sync_enter
-0x005A0E68	0x00000004	[450] _objc_sync_exit
-0x005A0E6C	0x00000004	[450] _object_getClass
-0x005A0E70	0x00000004	[450] _object_getClassName
+0x005A0DC4	0x00000004	[449] _objc_allocateClassPair
+0x005A0DC8	0x00000004	[449] _objc_autorelease
+0x005A0DCC	0x00000004	[449] _objc_autoreleasePoolPop
+0x005A0DD0	0x00000004	[449] _objc_autoreleasePoolPush
+0x005A0DD4	0x00000004	[449] _objc_autoreleaseReturnValue
+0x005A0DD8	0x00000004	[449] _objc_begin_catch
+0x005A0DDC	0x00000004	[449] _objc_copyClassList
+0x005A0DE0	0x00000004	[449] _objc_copyImageNames
+0x005A0DE4	0x00000004	[449] _objc_copyStruct
+0x005A0DE8	0x00000004	[449] _objc_copyWeak
+0x005A0DEC	0x00000004	[449] _objc_destroyWeak
+0x005A0DF0	0x00000004	[449] _objc_end_catch
+0x005A0DF4	0x00000004	[449] _objc_enumerationMutation
+0x005A0DF8	0x00000004	[449] _objc_exception_throw
+0x005A0DFC	0x00000004	[449] _objc_getAssociatedObject
+0x005A0E00	0x00000004	[449] _objc_getClass
+0x005A0E04	0x00000004	[449] _objc_getClassList
+0x005A0E08	0x00000004	[449] _objc_getProperty
+0x005A0E0C	0x00000004	[449] _objc_initWeak
+0x005A0E10	0x00000004	[449] _objc_loadWeakRetained
+0x005A0E14	0x00000004	[449] _objc_msgSend
+0x005A0E18	0x00000004	[449] _objc_msgSendSuper
+0x005A0E1C	0x00000004	[449] _objc_msgSendSuper2
+0x005A0E20	0x00000004	[449] _objc_msgSendSuper_stret
+0x005A0E24	0x00000004	[449] _objc_msgSend_fpret
+0x005A0E28	0x00000004	[449] _objc_msgSend_stret
+0x005A0E2C	0x00000004	[449] _objc_registerClassPair
+0x005A0E30	0x00000004	[449] _objc_release
+0x005A0E34	0x00000004	[449] _objc_retain
+0x005A0E38	0x00000004	[449] _objc_retainAutorelease
+0x005A0E3C	0x00000004	[449] _objc_retainAutoreleaseReturnValue
+0x005A0E40	0x00000004	[449] _objc_retainAutoreleasedReturnValue
+0x005A0E44	0x00000004	[449] _objc_retainBlock
+0x005A0E48	0x00000004	[449] _objc_setAssociatedObject
+0x005A0E4C	0x00000004	[449] _objc_setProperty_atomic
+0x005A0E50	0x00000004	[449] _objc_setProperty_atomic_copy
+0x005A0E54	0x00000004	[449] _objc_setProperty_nonatomic
+0x005A0E58	0x00000004	[449] _objc_setProperty_nonatomic_copy
+0x005A0E5C	0x00000004	[449] _objc_storeStrong
+0x005A0E60	0x00000004	[449] _objc_storeWeak
+0x005A0E64	0x00000004	[449] _objc_sync_enter
+0x005A0E68	0x00000004	[449] _objc_sync_exit
+0x005A0E6C	0x00000004	[449] _object_getClass
+0x005A0E70	0x00000004	[449] _object_getClassName
 0x005A0E74	0x00000004	[448] _open
 0x005A0E78	0x00000004	[448] _opendir
 0x005A0E7C	0x00000004	[448] _pclose
@@ -32141,9 +32141,9 @@
 0x005A0E94	0x00000004	[448] _pow
 0x005A0E98	0x00000004	[448] _powf
 0x005A0E9C	0x00000004	[448] _printf
-0x005A0EA0	0x00000004	[450] _property_copyAttributeList
-0x005A0EA4	0x00000004	[450] _property_getName
-0x005A0EA8	0x00000004	[450] _protocol_getMethodDescription
+0x005A0EA0	0x00000004	[449] _property_copyAttributeList
+0x005A0EA4	0x00000004	[449] _property_getName
+0x005A0EA8	0x00000004	[449] _protocol_getMethodDescription
 0x005A0EAC	0x00000004	[448] _pthread_attr_getschedpolicy
 0x005A0EB0	0x00000004	[448] _pthread_attr_getstacksize
 0x005A0EB4	0x00000004	[448] _pthread_attr_init
@@ -32201,8 +32201,8 @@
 0x005A0F84	0x00000004	[448] _sched_get_priority_max
 0x005A0F88	0x00000004	[448] _sched_get_priority_min
 0x005A0F8C	0x00000004	[448] _sched_yield
-0x005A0F90	0x00000004	[450] _sel_getName
-0x005A0F94	0x00000004	[450] _sel_registerName
+0x005A0F90	0x00000004	[449] _sel_getName
+0x005A0F94	0x00000004	[449] _sel_registerName
 0x005A0F98	0x00000004	[448] _select
 0x005A0F9C	0x00000004	[448] _semaphore_create
 0x005A0FA0	0x00000004	[448] _semaphore_destroy
