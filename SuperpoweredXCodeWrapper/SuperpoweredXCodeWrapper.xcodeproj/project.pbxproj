@@ -44,13 +44,14 @@
 		186A005C1ED5C61E009484E0 /* SuperpoweredIOSAudioIO.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SuperpoweredIOSAudioIO.h; sourceTree = "<group>"; };
 		186A005D1ED5C61E009484E0 /* SuperpoweredIOSAudioIO.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = SuperpoweredIOSAudioIO.mm; sourceTree = "<group>"; };
 		18B319D91ED5C8F10094C818 /* SuperpoweredFrequencies-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SuperpoweredFrequencies-Bridging-Header.h"; sourceTree = "<group>"; };
+		18B319DA1ED5CB510094C818 /* SuperpoweredSimple.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SuperpoweredSimple.h; sourceTree = "<group>"; };
 		940C9AAF1B9BB74900328168 /* libSuperpoweredXCodeWrapper.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libSuperpoweredXCodeWrapper.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		940C9ABA1B9BB74900328168 /* SuperpoweredXCodeWrapperTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SuperpoweredXCodeWrapperTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		940C9AC01B9BB74900328168 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		940C9ACA1B9BB8EC00328168 /* SuperpoweredBandpassFilterbankXCodeWrapper.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SuperpoweredBandpassFilterbankXCodeWrapper.cpp; sourceTree = "<group>"; };
 		940C9ACB1B9BB8EC00328168 /* SuperpoweredBandpassFilterbankXCodeWrapper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SuperpoweredBandpassFilterbankXCodeWrapper.h; sourceTree = "<group>"; };
 		940C9ACE1B9BB91400328168 /* SuperpoweredBandpassFilterbank.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SuperpoweredBandpassFilterbank.h; sourceTree = "<group>"; };
-		9460EAC51B9BF0350075EF8E /* SuperpoweredSimple.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SuperpoweredSimple.h; sourceTree = "<group>"; };
+		9460EAC51B9BF0350075EF8E /* SuperpoweredSimple.h.old */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SuperpoweredSimple.h.old; sourceTree = "<group>"; };
 		9460EAC61B9BF06C0075EF8E /* SuperpoweredSimpleXCodeWrapper.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SuperpoweredSimpleXCodeWrapper.cpp; sourceTree = "<group>"; };
 		9460EAC71B9BF06C0075EF8E /* SuperpoweredSimpleXCodeWrapper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SuperpoweredSimpleXCodeWrapper.h; sourceTree = "<group>"; };
 		9460EAC91B9BF3300075EF8E /* SuperpoweredWrapperUtilities.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SuperpoweredWrapperUtilities.cpp; sourceTree = "<group>"; };
@@ -139,7 +140,8 @@
 				186A00591ED5C495009484E0 /* SuperpoweredFrequencies.mm */,
 				94B593BF1BAADD230069E3FD /* SuperpoweredIOSAudioOutput.h */,
 				94B593C01BAADD230069E3FD /* SuperpoweredIOSAudioOutput.mm */,
-				9460EAC51B9BF0350075EF8E /* SuperpoweredSimple.h */,
+				18B319DA1ED5CB510094C818 /* SuperpoweredSimple.h */,
+				9460EAC51B9BF0350075EF8E /* SuperpoweredSimple.h.old */,
 				940C9ACE1B9BB91400328168 /* SuperpoweredBandpassFilterbank.h */,
 			);
 			name = SuperpoweredSDK;
