@@ -2,8 +2,9 @@
 #import "SuperpoweredIOSAudioIO.h"
 #include "SuperpoweredBandpassFilterbank.h"
 #include "SuperpoweredSimple.h"
+#import "SuperpoweredFrequencies.h"
 
-@implementation Superpowered {
+@implementation SuperpoweredFrequencies {
     SuperpoweredIOSAudioIO *audioIO;
     SuperpoweredBandpassFilterbank *filters;
     float bands[128][8];
@@ -11,7 +12,7 @@
 }
 
 static bool audioProcessing(void *clientdata, float **buffers, unsigned int inputChannels, unsigned int outputChannels, unsigned int numberOfSamples, unsigned int samplerate, uint64_t hostTime) {
-    __unsafe_unretained Superpowered *self = (__bridge Superpowered *)clientdata;
+    __unsafe_unretained SuperpoweredFrequencies *self = (__bridge SuperpoweredFrequencies *)clientdata;
     if (samplerate != self->samplerate) {
         self->samplerate = samplerate;
         self->filters->setSamplerate(samplerate);
