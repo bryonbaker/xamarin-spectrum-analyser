@@ -41,9 +41,9 @@
 
 /* Begin PBXFileReference section */
 		186A00591ED5C495009484E0 /* SuperpoweredFrequencies.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = SuperpoweredFrequencies.mm; sourceTree = "<group>"; };
-		186A005B1ED5C5C9009484E0 /* SuperpoweredFrequencies-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "SuperpoweredFrequencies-Bridging-Header.h"; path = "../../../Downloads/SuperpoweredSDK/Examples_iOS/SuperpoweredFrequencies/SuperpoweredFrequencies/SuperpoweredFrequencies-Bridging-Header.h"; sourceTree = "<group>"; };
 		186A005C1ED5C61E009484E0 /* SuperpoweredIOSAudioIO.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SuperpoweredIOSAudioIO.h; sourceTree = "<group>"; };
 		186A005D1ED5C61E009484E0 /* SuperpoweredIOSAudioIO.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = SuperpoweredIOSAudioIO.mm; sourceTree = "<group>"; };
+		18B319D91ED5C8F10094C818 /* SuperpoweredFrequencies-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SuperpoweredFrequencies-Bridging-Header.h"; sourceTree = "<group>"; };
 		940C9AAF1B9BB74900328168 /* libSuperpoweredXCodeWrapper.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libSuperpoweredXCodeWrapper.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		940C9ABA1B9BB74900328168 /* SuperpoweredXCodeWrapperTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SuperpoweredXCodeWrapperTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		940C9AC01B9BB74900328168 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -133,8 +133,8 @@
 			children = (
 				186A005C1ED5C61E009484E0 /* SuperpoweredIOSAudioIO.h */,
 				186A005D1ED5C61E009484E0 /* SuperpoweredIOSAudioIO.mm */,
-				186A005B1ED5C5C9009484E0 /* SuperpoweredFrequencies-Bridging-Header.h */,
 				94B593BD1BAADD230069E3FD /* SuperpoweredFrequencies.h */,
+				18B319D91ED5C8F10094C818 /* SuperpoweredFrequencies-Bridging-Header.h */,
 				94B593BE1BAADD230069E3FD /* SuperpoweredFrequencies.mm.old */,
 				186A00591ED5C495009484E0 /* SuperpoweredFrequencies.mm */,
 				94B593BF1BAADD230069E3FD /* SuperpoweredIOSAudioOutput.h */,
