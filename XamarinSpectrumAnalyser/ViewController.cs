@@ -76,7 +76,6 @@ namespace XamarinSpectrumAnalyser
 			if (runFlag) {
 				float[] frequencies = new float[maxFrequencies];
 				GetFrequencies (frequencies);
-
 				DisplaySpectrum( ref frequencies );
 			}
 
