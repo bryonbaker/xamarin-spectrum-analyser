@@ -12,7 +12,7 @@ namespace XamarinSpectrumAnalyser
 		uint interruptCounter = 0;
 
 		CADisplayLink	displayLink;
-		const int maxFrequencies = 52;
+		const int maxFrequencies = 8;
 		CALayer[]	layers = new CALayer[maxFrequencies];
 		bool runFlag = false;
 		SuperpoweredFrequencies superpowered;
@@ -76,7 +76,6 @@ namespace XamarinSpectrumAnalyser
 			if (runFlag) {
 				float[] frequencies = new float[maxFrequencies];
 				GetFrequencies (frequencies);
-
 				DisplaySpectrum( ref frequencies );
 			}
 
@@ -126,7 +125,7 @@ namespace XamarinSpectrumAnalyser
 					layers [i].BackgroundColor = octaveColour;
 				
 				tmpSize = frame.Size;
-				tmpSize.Height = spectrum [i] * 12000;
+				tmpSize.Height = spectrum [i] * 5000;
 				frame.Size = tmpSize;								// Scale it so we can see something
 
 				// Need to work through intermediate objects because you cannot set the value of a return value.
