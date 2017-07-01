@@ -55,11 +55,15 @@ To build the X-Code project you need to use the command line and run "make." Thi
 ** Xamarin C# **
 
 In the Xamarin Solution there are a couple of parts to the binding. To call the C or C++ code in SuperpoweredSDK you need to use pInvoke. To call Objective-C you need to use a C# binding. The solution therefore contains three projects.
-	Project 1: SuperpoweredSDKXamarinWrapper - demonstrates how to wrap the C and C++ Superpowered library.
-	Project 2: SuperpoweredSDKBinding - demonstrates how to bind to the SuperpoweredFrequencies demo in Objective-C (this is where the binding to SuperpoweredIOSAudioOutput will go).
-	Project 3: XamarinSpectrumAnalyser - the project that demonstrates the implementation of the binding.
+Project 1: SuperpoweredSDKXamarinWrapper - demonstrates how to wrap the C and C++ Superpowered library.
+Project 2: SuperpoweredSDKBinding - demonstrates how to bind to the SuperpoweredFrequencies demo in Objective-C (this is where the binding to SuperpoweredIOSAudioOutput will go).
+Project 3: XamarinSpectrumAnalyser - the project that demonstrates the implementation of the binding.
 
 The code here is pretty self explanatory and the only thing worth noting is this is where we convert our "flattened" C++ code back into classes. Here I have basically reimplemented the original C++ interface in C# so you can use SuperpoweredBandpassFilterbank as per the current documentation.
+
+### A word on Provisioning Profiles ###
+If you do not have a Apple Developer membership and are instead using the free developer profile from Apple you may need to fiddle with the provisioning profile in Visual Studio. 
+In order to deploy to a device you need to make sure that the provisioning profile in Info.plist matches the provisioning profile you have set up in XCode (has to be an exact match). You then need to check the iOS Bundle Signing in the project options has the correct Signing Identity and Provisioning Profile selected.
 
 #### Summary of set up ###
 
@@ -91,7 +95,7 @@ Set the following options in the Project's *iOS Build* settings page:
 * Linker Options: *Don't Link*
 * Additional Options:
 
-	-cxx -gcc_flags "-L${ProjectDir} -lSuperpoweredAudio -force_load ${ProjectDir}/libSuperpoweredAudio.a -lSuperpoweredXCodeWrapperSDK -force_load ${ProjectDir}/libSuperpoweredXCodeWrapperSDK.a" -gcc_flags "-Wl,-map,${ProjectDir}/output.map"
+-cxx -gcc_flags "-L${ProjectDir} -lSuperpoweredAudio -force_load ${ProjectDir}/libSuperpoweredAudio.a -lSuperpoweredXCodeWrapperSDK -force_load ${ProjectDir}/libSuperpoweredXCodeWrapperSDK.a" -gcc_flags "-Wl,-map,${ProjectDir}/output.map"
 
 NOTE: Make sure you set the options for both *iPhone* and *iPhone Simulator*.
 

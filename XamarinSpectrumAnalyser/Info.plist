@@ -5,7 +5,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>XamarinSpectrumAnalyser</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.bryon_baker_software.xamarinspectrumanalyser</string>
+	<string>com.bryon.App</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
