@@ -1,54 +1,45 @@
-#import "SuperpoweredFrequencies-Bridging-Header.h"
-#import "SuperpoweredIOSAudioIO.h"
+#import "SuperpoweredFrequencies.h"
+#import "SuperpoweredIOSAudioOutput.h"
 #include "SuperpoweredBandpassFilterbank.h"
 #include "SuperpoweredSimple.h"
-#import "SuperpoweredFrequencies.h"
+#include <pthread.h>
+
+#define NUM_BANDS   (4*13)      // Must be a multiple of 4
+#define FREQ_OFFSET (int)-29
 
 @implementation SuperpoweredFrequencies {
-    SuperpoweredIOSAudioIO *audioIO;
+    SuperpoweredIOSAudioOutput *audioIO;
     SuperpoweredBandpassFilterbank *filters;
-    float bands[128][8];
-    unsigned int samplerate, bandsWritePos, bandsReadPos, bandsPos, lastNumberOfSamples;
-}
-
-static bool audioProcessing(void *clientdata, float **buffers, unsigned int inputChannels, unsigned int outputChannels, unsigned int numberOfSamples, unsigned int samplerate, uint64_t hostTime) {
-    __unsafe_unretained SuperpoweredFrequencies *self = (__bridge SuperpoweredFrequencies *)clientdata;
-    if (samplerate != self->samplerate) {
-        self->samplerate = samplerate;
-        self->filters->setSamplerate(samplerate);
-    };
-    
-    // Mix the non-interleaved input to interleaved.
-    float interleaved[numberOfSamples * 2 + 16];
-    SuperpoweredInterleave(buffers[0], buffers[1], interleaved, numberOfSamples);
-    
-    // Get the next position to write.
-    unsigned int writePos = self->bandsWritePos++ & 127;
-    memset(&self->bands[writePos][0], 0, 8 * sizeof(float));
-    
-    // Detect frequency magnitudes.
-    float peak, sum;
-    self->filters->process(interleaved, &self->bands[writePos][0], &peak, &sum, numberOfSamples);
-    
-    // Update position.
-    self->lastNumberOfSamples = numberOfSamples;
-    __sync_synchronize();
-    __sync_fetch_and_add(&self->bandsPos, 1);
-    return false;
+    float bands[NUM_BANDS];
+    pthread_mutex_t mutex;
+    unsigned int samplerate, samplesProcessedForOneDisplayFrame;
 }
 
 - (id)init {
     self = [super init];
     if (!self) return nil;
     samplerate = 44100;
-    bandsWritePos = bandsReadPos = bandsPos = lastNumberOfSamples = 0;
-    memset(bands, 0, 128 * 8 * sizeof(float));
+    samplesProcessedForOneDisplayFrame = 0;
+    memset(bands, 0, NUM_BANDS * sizeof(float));
     
-    float frequencies[8] = { 55, 110, 220, 440, 880, 1760, 3520, 7040 };
-    float widths[8] = { 1, 1, 1, 1, 1, 1, 1, 1 };
-    filters = new SuperpoweredBandpassFilterbank(8, frequencies, widths, samplerate);
+    // We use a mutex to prevent simultaneous reading/writing of bands.
+    pthread_mutex_init(&mutex, NULL);
     
-    audioIO = [[SuperpoweredIOSAudioIO alloc] initWithDelegate:(id<SuperpoweredIOSAudioIODelegate>)self preferredBufferSize:12 preferredMinimumSamplerate:44100 audioSessionCategory:AVAudioSessionCategoryRecord channels:2 audioProcessingCallback:audioProcessing clientdata:(__bridge void *)self];
+    // float frequencies[8] = { 55, 110, 220, 440, 880, 1760, 3520, 7040 };
+    // float widths[8] = { 1, 1, 1, 1, 1, 1, 1, 1 };
+    float frequencies[NUM_BANDS];
+    float widths[NUM_BANDS];
+    float bandWidth = 1.0f / 48.0f;
+    for( int n = 0; n < NUM_BANDS; n++ )
+    {
+        frequencies[n] = 440.0f * powf(2, (float)(n+FREQ_OFFSET)/12.0f);
+        widths[n] = bandWidth;
+    }
+    
+    filters = new SuperpoweredBandpassFilterbank(NUM_BANDS, frequencies, widths, samplerate);
+    
+    audioIO = [[SuperpoweredIOSAudioOutput alloc] initWithDelegate:(id<SuperpoweredIOSAudioIODelegate>)self preferredBufferSize:12 preferredMinimumSamplerate:44100 audioSessionCategory:AVAudioSessionCategoryPlayAndRecord multiChannels:2 fixReceiver:2];
+    audioIO.inputEnabled = true;
     [audioIO start];
     
     return self;
@@ -56,30 +47,47 @@ static bool audioProcessing(void *clientdata, float **buffers, unsigned int inpu
 
 - (void)dealloc {
     delete filters;
+    pthread_mutex_destroy(&mutex);
     audioIO = nil;
 }
 
-- (void)interruptionStarted {}
 - (void)interruptionEnded {}
-- (void)recordPermissionRefused {}
-- (void)mapChannels:(multiOutputChannelMap *)outputMap inputMap:(multiInputChannelMap *)inputMap externalAudioDeviceName:(NSString *)externalAudioDeviceName outputsAndInputs:(NSString *)outputsAndInputs {}
+
+- (bool)audioProcessingCallback:(float **)buffers inputChannels:(unsigned int)inputChannels outputChannels:(unsigned int)outputChannels numberOfSamples:(unsigned int)numberOfSamples samplerate:(unsigned int)currentsamplerate hostTime:(UInt64)hostTime {
+    if (samplerate != currentsamplerate) {
+        samplerate = currentsamplerate;
+        filters->setSamplerate(samplerate);
+    };
+    
+    // Mix the non-interleaved input to interleaved.
+    float interleaved[numberOfSamples * 2 + 16];
+    SuperpoweredInterleave(buffers[0], buffers[1], interleaved, numberOfSamples);
+    
+    // Detect frequency magnitudes.
+    float peak, sum;
+    pthread_mutex_lock(&mutex);
+    samplesProcessedForOneDisplayFrame += numberOfSamples;
+    filters->process(interleaved, bands, &peak, &sum, numberOfSamples);
+    pthread_mutex_unlock(&mutex);
+    
+    return false;
+}
 
 /*
- It's important to understand that the audio processing callback and the screen update (getFrequencies) are never in sync.
- More than 1 audio processing turns may happen between two consecutive screen updates.
+ It's important to understand that the audio processing callback and the screen update (getFrequencies) are never in sync. 
+ More than 1 audio processing turns can happen between two consecutive screen updates.
  */
 
 - (void)getFrequencies:(float *)freqs {
-    memset(freqs, 0, 8 * sizeof(float));
-    unsigned int currentPosition = __sync_fetch_and_add(&bandsPos, 0);
-    if (currentPosition > bandsReadPos) {
-        unsigned int positionsElapsed = currentPosition - bandsReadPos;
-        float multiplier = 1.0f / float(positionsElapsed * lastNumberOfSamples);
-        while (positionsElapsed--) {
-            float *b = &bands[bandsReadPos++ & 127][0];
-            for (int n = 0; n < 8; n++) freqs[n] += b[n] * multiplier;
-        }
-    }
+    pthread_mutex_lock(&mutex);
+    if (samplesProcessedForOneDisplayFrame > 0) {
+        for (int n = 0; n < NUM_BANDS; n++)
+            freqs[n] = bands[n] / float(samplesProcessedForOneDisplayFrame);
+        memset(bands, 0, NUM_BANDS * sizeof(float));
+        samplesProcessedForOneDisplayFrame = 0;
+    } else
+        memset(freqs, 0, NUM_BANDS * sizeof(float));
+    pthread_mutex_unlock(&mutex);
 }
 
 @end

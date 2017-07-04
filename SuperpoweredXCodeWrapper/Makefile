@@ -6,7 +6,8 @@ XBUILD_FLAGS=-Wl,-map,output.map
 PROJECT_ROOT=.
 SOURCE=$(PROJECT_ROOT)/$(PROJECTNAME)
 PROJECT=$(PROJECT_ROOT)/$(PROJECTNAME).xcodeproj
-SDK=iphoneos9.0
+# You need to make sure that the SDK value below matches the SDK value in XCode under: Build Settings > Architectures > Base SDK.
+SDK=iphoneos10.3
 NAMESPACE=$(PROJECTNAME)
 
 all: lib$(TARGET)SDK.a ApiDefinitions.cs StructsAndEnums.cs
@@ -28,7 +29,7 @@ lib$(TARGET)SDK.a: lib$(TARGET)-i386.a lib$(TARGET)-armv7.a lib$(TARGET)-arm64.a
 
 ApiDefinitions.cs:
 StructsAndEnums.cs:
-	sharpie bind --output=$(PROJECT_ROOT) --namespace=$(NAMESPACE) --sdk=$(SDK) $(PROJECT_ROOT)/SuperpoweredFrequencies.h
+	sharpie -tlm-do-not-submit -tlm-do-not-identify bind --output=$(PROJECT_ROOT) --namespace=$(NAMESPACE) --sdk=$(SDK) $(PROJECT_ROOT)/SuperpoweredFrequencies.h
 
 clean:
 	-rm -rf *.a *.dll build ApiDefinitions.cs StructsAndEnums.cs
