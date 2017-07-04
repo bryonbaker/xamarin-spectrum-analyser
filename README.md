@@ -12,6 +12,8 @@ The X-Code and Xamarin projects give you everything you need to get up and going
 
 The project displays a full spectrum for a standard tuning guitar; with red bars indicating C for each octave.
 
+This project has been tested with XCode (8.3.3) and Visual Studio for macOS (7.0.1), and Xamarin.iOS (10.4.0.128) both on a physical device and in the simulator. 
+
 ### Contents: ###
 
 * An XCode project that wraps up the SuperpoweredSDK and creates a satic library that can be called from C#.
@@ -19,8 +21,7 @@ The project displays a full spectrum for a standard tuning guitar; with red bars
 
 ### Known Issues: ###
 
-The project has been updated to the latest versions of XCode (8.3.3) and Visual Studio for macOS (7.0.1), and Xamarin.iOS (10.4.0.128). 
-It is still using an old version of SuperpoweredSDK; I will be updating it to use the latest version shortly. 
+The project is still using an old version of SuperpoweredSDK; I will be updating it to use the latest version shortly. 
 
 ### How do I get set up? ###
 
